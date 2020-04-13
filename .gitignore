@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+cid-lista-complete.xlsx 
+preprocessing.ipynb 
