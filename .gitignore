@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 cid-lista-complete.xlsx 
 preprocessing.ipynb 
+"cid-course-full-data.csv" 
